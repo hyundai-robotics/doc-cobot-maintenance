@@ -4,7 +4,7 @@
 
 소형 컴퓨터 모듈의 외부 인터페이스와 COM 포트, 전원 커넥터의 구성은 다음과 같습니다.
 
-![그림 40 소형 컴퓨터 모듈 외부 인터페이스](../../.gitbook/assets/image121.png)
+![그림 40 소형 컴퓨터 모듈 외부 인터페이스](../../_assets/image121.png)
 
 |      **포트**      |  **용도** |      **사양**      | **개수** |
 | :--------------: | :-----: | :--------------: | :----: |
@@ -16,30 +16,30 @@
 |       DC IN      |  전원 입력  | DC12 \~ 24V, 10A |    1   |
 |         -        |  확장 슬롯  |   PCIe x1, PCI   |    2   |
 
-![그림 41 COM 포트(Male) 핀 맵](../../.gitbook/assets/image122.png)
+![그림 41 COM 포트(Male) 핀 맵](../../_assets/image122.png)
 
 |                     **번호**                    |        **이름**       |                     **번호**                    |    **이름**    |
 | :-------------------------------------------: | :-----------------: | :-------------------------------------------: | :----------: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) | COMn\_422\_485\_TX- | ![Adobe Systems](../../.gitbook/assets/6.png) |  COMn\_DSR#  |
-| ![Adobe Systems](../../.gitbook/assets/2.png) | COMn\_422\_485\_TX+ | ![Adobe Systems](../../.gitbook/assets/7.png) |  COMn\_RTS#  |
-| ![Adobe Systems](../../.gitbook/assets/3.png) |    COMn\_422\_RX+   | ![Adobe Systems](../../.gitbook/assets/8.png) |  COMn\_CTS#  |
-| ![Adobe Systems](../../.gitbook/assets/4.png) |    COMn\_422\_RX-   | ![Adobe Systems](../../.gitbook/assets/9.png) | COMn\_RI\_V# |
-| ![Adobe Systems](../../.gitbook/assets/5.png) |         GND         |                                               |              |
+| ![Adobe Systems](../../_assets/1.png) | COMn\_422\_485\_TX- | ![Adobe Systems](../../_assets/6.png) |  COMn\_DSR#  |
+| ![Adobe Systems](../../_assets/2.png) | COMn\_422\_485\_TX+ | ![Adobe Systems](../../_assets/7.png) |  COMn\_RTS#  |
+| ![Adobe Systems](../../_assets/3.png) |    COMn\_422\_RX+   | ![Adobe Systems](../../_assets/8.png) |  COMn\_CTS#  |
+| ![Adobe Systems](../../_assets/4.png) |    COMn\_422\_RX-   | ![Adobe Systems](../../_assets/9.png) | COMn\_RI\_V# |
+| ![Adobe Systems](../../_assets/5.png) |         GND         |                                               |              |
 
-![그림 42 COM 포트(Female) 핀 맵](../../.gitbook/assets/image123.png)
+![그림 42 COM 포트(Female) 핀 맵](../../_assets/image123.png)
 
 |                     **번호**                    |    **이름**   |                     **번호**                    |    **이름**   |
 | :-------------------------------------------: | :---------: | :-------------------------------------------: | :---------: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) | GPIO\_GPIO0 | ![Adobe Systems](../../.gitbook/assets/6.png) | GPIO\_GPIO4 |
-| ![Adobe Systems](../../.gitbook/assets/2.png) | GPIO\_GPIO1 | ![Adobe Systems](../../.gitbook/assets/7.png) | GPIO\_GPIO5 |
-| ![Adobe Systems](../../.gitbook/assets/3.png) | GPIO\_GPIO2 | ![Adobe Systems](../../.gitbook/assets/8.png) | GPIO\_GPIO6 |
-| ![Adobe Systems](../../.gitbook/assets/4.png) | GPIO\_GPIO3 | ![Adobe Systems](../../.gitbook/assets/9.png) | GPIO\_GPIO7 |
-| ![Adobe Systems](../../.gitbook/assets/5.png) |     GND     |                                               |             |
+| ![Adobe Systems](../../_assets/1.png) | GPIO\_GPIO0 | ![Adobe Systems](../../_assets/6.png) | GPIO\_GPIO4 |
+| ![Adobe Systems](../../_assets/2.png) | GPIO\_GPIO1 | ![Adobe Systems](../../_assets/7.png) | GPIO\_GPIO5 |
+| ![Adobe Systems](../../_assets/3.png) | GPIO\_GPIO2 | ![Adobe Systems](../../_assets/8.png) | GPIO\_GPIO6 |
+| ![Adobe Systems](../../_assets/4.png) | GPIO\_GPIO3 | ![Adobe Systems](../../_assets/9.png) | GPIO\_GPIO7 |
+| ![Adobe Systems](../../_assets/5.png) |     GND     |                                               |             |
 
-![그림 43 DCIN (전원 커넥터) 핀 맵](../../.gitbook/assets/image124.png)
+![그림 43 DCIN (전원 커넥터) 핀 맵](../../_assets/image124.png)
 
 |                     **번호**                    | **이름** |
 | :-------------------------------------------: | :----: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) |  DC24V |
-| ![Adobe Systems](../../.gitbook/assets/2.png) |   FG   |
-| ![Adobe Systems](../../.gitbook/assets/3.png) |   GND  |
+| ![Adobe Systems](../../_assets/1.png) |  DC24V |
+| ![Adobe Systems](../../_assets/2.png) |   FG   |
+| ![Adobe Systems](../../_assets/3.png) |   GND  |

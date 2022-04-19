@@ -4,12 +4,12 @@
 
 ### <mark style="color:green;">YL005</mark>
 
-![](../../.gitbook/assets/yl005\_payload.png)
+![](../../_assets/yl005\_payload.png)
 
 ### <mark style="color:green;">YL012</mark>
 
-![](../../.gitbook/assets/yl012\_payload.png)
+![](../../_assets/yl012\_payload.png)
 
 ### <mark style="color:green;">YL015</mark>
 
-![](../../.gitbook/assets/yl015\_payload.png)
+![](../../_assets/yl015\_payload.png)

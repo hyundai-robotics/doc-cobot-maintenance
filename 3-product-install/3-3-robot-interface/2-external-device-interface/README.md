@@ -2,16 +2,16 @@
 
 제어기 정면의 외부 장치 인터페이스를 이용하여 다양한 외부 장치를 연결할 수 있습니다.
 
-![그림 19 외부 장치 인터페이스](../../../.gitbook/assets/external\_device\_interface.png)
+![그림 19 외부 장치 인터페이스](../../../_assets/external\_device\_interface.png)
 
 |                            **번호**                           | 　　　　　　　　　　　**설명** |
 | :---------------------------------------------------------: | ----------------- |
-|             ![](../../../.gitbook/assets/1.png)             | LAN 연결 포트         |
-|             ![](../../../.gitbook/assets/2.png)             | USB 연결 포          |
-|             ![](../../../.gitbook/assets/3.png)             | D-SUB 커넥터         |
+|             ![](../../../_assets/1.png)             | LAN 연결 포트         |
+|             ![](../../../_assets/2.png)             | USB 연결 포          |
+|             ![](../../../_assets/3.png)             | D-SUB 커넥터         |
 | <ul><li>9 핀(COM1, COM2): 직렬 통신(RS485, 422, RS232)</li></ul> |                   |
 |          <ul><li>25 핀(SDIO): 범용 안전 신호 입출력</li></ul>         |                   |
-|             ![](../../../.gitbook/assets/4.png)             | 터미널 블록            |
+|             ![](../../../_assets/4.png)             | 터미널 블록            |
 |              <ul><li>TB1: 범용 아날로그 입출력</li></ul>             |                   |
 |              <ul><li>TB2: 전용 안전 신호 입력</li></ul>             |                   |
 |             <ul><li>TB3: 범용 디지털 신호 입출력</li></ul>            |                   |

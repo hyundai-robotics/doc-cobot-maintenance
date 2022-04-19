@@ -4,7 +4,7 @@
 
 로봇 시스템과 작업자가 접촉하여 수행하는 협동운전에서 작업자는 안전 영역 내에서 작업합니다. 반면 로봇과 작업자의 접촉이 허가되지 않는 협동운전의 경우, 작업자는 보호 영역 내에서만 작업할 수 있습니다. 일반적인 산업용 로봇을 운전하는 경우에는 작업자는 보호 영역 밖에서 작업해야 합니다.
 
-![](../../.gitbook/assets/robot\_system\_area.png)
+![](../../_assets/robot\_system\_area.png)
 
 * **운전 영역(Operating space)**: 작업 프로그램에 따라 로봇이 움직이는 동안 사용되는 제한 영역의 한 영역
 * **제한 영역(Restricted space)**: 제한 장치에 의해 제한되는 최대 영역의 한 영역
@@ -19,15 +19,15 @@
 
 ### <mark style="color:green;">YL005: 916 mm</mark>
 
-![](../../.gitbook/assets/yl005\_area.png)
+![](../../_assets/yl005\_area.png)
 
 ### <mark style="color:green;">YL012: 1,305 mm</mark>
 
-![](../../.gitbook/assets/yl012\_area.png)
+![](../../_assets/yl012\_area.png)
 
 ### <mark style="color:green;">YL015: 963 mm</mark>
 
-![](../../.gitbook/assets/yl015\_area.png)
+![](../../_assets/yl015\_area.png)
 
 {% hint style="info" %}
 상기의 S축을 관통하는 원통형 영역은 툴 플랜지는 느리게 움직이더라도 다른 관절들이 빠르게 움직여 비효율적 작동 및 로봇 손상을 유발할 수 있습니다. 따라서 이 영역에서 작동하는 것을 권장하지 않습니다.

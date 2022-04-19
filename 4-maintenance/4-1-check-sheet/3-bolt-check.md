@@ -6,24 +6,24 @@
 
 * S축 점검 부위 - 볼트: 10 X M5-18 / 토크: 8.2 Nm (83 kgf·cm)
 
-![](../../.gitbook/assets/image100.png)
+![](../../_assets/image100.png)
 
 * H축 점검 부위 - 볼트: 10 X M6-20 / 토크: 13.82 Nm (141 kgf·cm)
 
-![](../../.gitbook/assets/image101.png)
+![](../../_assets/image101.png)
 
 * V축 점검 부위 - 볼트: 10 X M5-20 / 토크: 8.2 Nm (83 kgf·cm)
 
-![](../../.gitbook/assets/image102.png)
+![](../../_assets/image102.png)
 
 * R2축 점검 부위 - 볼트: 10 X M4-25 / 토크: 4.02 Nm (41 kgf·cm)
 
-![](../../.gitbook/assets/image103.png)
+![](../../_assets/image103.png)
 
 * B축 점검 부위 - 볼트: 8 X M4-20 / 토크: 4.02 Nm (41 kgf·cm)
 
-![](../../.gitbook/assets/image104.png)
+![](../../_assets/image104.png)
 
 * R1축 점검 부위 - 볼트: 6 X M4-10 접시머리(12.9) / 토크: 4.02 Nm (41 kgf·cm)
 
-![](../../.gitbook/assets/image105.png)
+![](../../_assets/image105.png)

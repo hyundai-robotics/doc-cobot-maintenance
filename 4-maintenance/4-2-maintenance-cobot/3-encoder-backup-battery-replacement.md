@@ -12,16 +12,16 @@
 
 2\. 각 축의 배터리 위치를 확인하고 토크 렌치로 볼트를 분리하여 프레임 커버를 분리하십시오.
 
-![](../../.gitbook/assets/image106.png)
+![](../../_assets/image106.png)
 
 |              **번호**              | **축** |          **커버**         |             **볼트**             |
 | :------------------------------: | :---: | :---------------------: | :----------------------------: |
-| ![](../../.gitbook/assets/1.png) |   S   |    LOWER FRAME COVER    | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../.gitbook/assets/2.png) |   H   | UPPER FRAME LOWER COVER | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../.gitbook/assets/3.png) |   V   | UPPER FRAME UPPER COVER | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
-| ![](../../.gitbook/assets/4.png) |   R2  |     ARM FRAME COVER     | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
-| ![](../../.gitbook/assets/5.png) |   B   |      ARM PIPE COVER     | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
-| ![](../../.gitbook/assets/6.png) |   R1  |        HAND GRIP        |           M3 소경볼트(4개)          |
+| ![](../../_assets/1.png) |   S   |    LOWER FRAME COVER    | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
+| ![](../../_assets/2.png) |   H   | UPPER FRAME LOWER COVER | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
+| ![](../../_assets/3.png) |   V   | UPPER FRAME UPPER COVER | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
+| ![](../../_assets/4.png) |   R2  |     ARM FRAME COVER     | <p>육각소켓볼트</p><p>(M3X6, 5개)</p> |
+| ![](../../_assets/5.png) |   B   |      ARM PIPE COVER     | <p>육각소켓볼트</p><p>(M3X6, 6개)</p> |
+| ![](../../_assets/6.png) |   R1  |        HAND GRIP        |           M3 소경볼트(4개)          |
 
 3\. 배터리의 단자 방향을 확인하고 새 배터리로 교체하십시오.
 

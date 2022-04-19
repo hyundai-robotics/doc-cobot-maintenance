@@ -2,7 +2,7 @@
 
 D-SUB 24커넥터(SDIO)를 통하여 외부로 통신용 케이블 2포트를 연결할 수 있습니다. 신호 연결에 대한 자세한 내용은 “[**4.3.5 소형 컴퓨터 모듈**](../../../4-maintenance/4-3-controller-check-maintenance/5-microcomputer-module.md)”을 참조하십시오.
 
-![](../../../.gitbook/assets/d-sub9.png)
+![](../../../_assets/d-sub9.png)
 
 \* 제어기 내부(miniH6COM COM1, COM2) / \* n=1, 2 (COM 포트 번호)
 

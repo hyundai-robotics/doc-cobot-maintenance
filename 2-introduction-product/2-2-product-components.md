@@ -1,16 +1,16 @@
 # 2.2 제품 구성
 
-![로봇 기구](../.gitbook/assets/cobot.png)
+![로봇 기구](../_assets/cobot.png)
 
-![제어기](../.gitbook/assets/controller.png)
+![제어기](../_assets/controller.png)
 
-![티치 펜던트](../.gitbook/assets/tp.png)
+![티치 펜던트](../_assets/tp.png)
 
-![로봇 연결 케이블](../.gitbook/assets/cable.png)
+![로봇 연결 케이블](../_assets/cable.png)
 
-![전원 연결용 커넥터](../.gitbook/assets/connector.png)
+![전원 연결용 커넥터](../_assets/connector.png)
 
-![설명서](../.gitbook/assets/maunal.png)
+![설명서](../_assets/maunal.png)
 
 {% hint style="info" %}
 * 협동로봇 모델에는 YL005와 YL012, YL015가 있습니다. 이 보수 설명서에서는 YL012 모델을 기준으로 구성과 설치, 사용 및 보수 방법을 설명합니다.

@@ -7,7 +7,7 @@
 * 입력 신호: STOP0, STOP1, STOP2, SOS, Reduced mode, Enable SW, Motor on, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space#1-#12
 * 출력 신호: STO activation status, SOS activation status, Reduce mode activation status, Not reduced mode, Robot moving, Robot not stopping, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space status#1-#12, Violation alarm, TCP speed violation, TCP orientation violation, TCP force violation, Collision detection, Momentum violation, Power violation, SOS violation, Joint position violation, Joint speed violation, Cartesian space violation#1-#12
 
-![](../../../.gitbook/assets/d-sub25.png)
+![](../../../_assets/d-sub25.png)
 
 \* 제어기 내부(SCM TBSIO)
 
@@ -45,9 +45,9 @@
 
 이 신호는 제어기 내부에 설치된 안전 제어 모듈(SCM)에 연결되어 있습니다. 신호 연결에 대한 자세한 내용은 “[**4.3.2.3 안전 입출력 신호 연결(TBSDI, TBSDO)**](../../../4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/3-tbsdi-tbsdo.md)”을 참조하십시오.
 
-![그림 24 범용 안전 입출력 신호 연결 방법](../../../.gitbook/assets/d-sub25\_3.png)
+![그림 24 범용 안전 입출력 신호 연결 방법](../../../_assets/d-sub25\_3.png)
 
-![그림 25 범용 안전 입출력 신호 연결 방법(PLC류)](../../../.gitbook/assets/d-sub25\_4.png)
+![그림 25 범용 안전 입출력 신호 연결 방법(PLC류)](../../../_assets/d-sub25\_4.png)
 
 {% hint style="warning" %}
 **\[주의]**
