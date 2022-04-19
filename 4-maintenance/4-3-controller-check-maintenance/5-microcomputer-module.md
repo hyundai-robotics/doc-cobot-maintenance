@@ -6,7 +6,7 @@ The composition of the external interface, COM ports, and power connector of the
 
 
 
-![Figure 40 External interface of the microcomputer module](../../.gitbook/assets/image121.png)
+![Figure 40 External interface of the microcomputer module](../../_assets/image121.png)
 
 |     **Port**     |       **Usage**      | **Specification** | **Count** |
 | :--------------: | :------------------: | :---------------: | :-------: |
@@ -18,32 +18,32 @@ The composition of the external interface, COM ports, and power connector of the
 |       DC IN      |      Power input     |  DC12 \~ 24V, 10A |     1     |
 |         -        |    Extension slot    |    PCIe x1, PCI   |     2     |
 
-![Figure 41 COM port (male) pin map](../../.gitbook/assets/image122.png)
+![Figure 41 COM port (male) pin map](../../_assets/image122.png)
 
 |                     **No**                    |       **Name**      |                     **No**                    |   **Name**   |
 | :-------------------------------------------: | :-----------------: | :-------------------------------------------: | :----------: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) | COMn\_422\_485\_TX- | ![Adobe Systems](../../.gitbook/assets/6.png) |  COMn\_DSR#  |
-| ![Adobe Systems](../../.gitbook/assets/2.png) | COMn\_422\_485\_TX+ | ![Adobe Systems](../../.gitbook/assets/7.png) |  COMn\_RTS#  |
-| ![Adobe Systems](../../.gitbook/assets/3.png) |    COMn\_422\_RX+   | ![Adobe Systems](../../.gitbook/assets/8.png) |  COMn\_CTS#  |
-| ![Adobe Systems](../../.gitbook/assets/4.png) |    COMn\_422\_RX-   | ![Adobe Systems](../../.gitbook/assets/9.png) | COMn\_RI\_V# |
-| ![Adobe Systems](../../.gitbook/assets/5.png) |         GND         |                                               |              |
+| ![Adobe Systems](../../_assets/1.png) | COMn\_422\_485\_TX- | ![Adobe Systems](../../_assets/6.png) |  COMn\_DSR#  |
+| ![Adobe Systems](../../_assets/2.png) | COMn\_422\_485\_TX+ | ![Adobe Systems](../../_assets/7.png) |  COMn\_RTS#  |
+| ![Adobe Systems](../../_assets/3.png) |    COMn\_422\_RX+   | ![Adobe Systems](../../_assets/8.png) |  COMn\_CTS#  |
+| ![Adobe Systems](../../_assets/4.png) |    COMn\_422\_RX-   | ![Adobe Systems](../../_assets/9.png) | COMn\_RI\_V# |
+| ![Adobe Systems](../../_assets/5.png) |         GND         |                                               |              |
 
-![Figure 42 COM port (female) pin map](../../.gitbook/assets/image123.png)
+![Figure 42 COM port (female) pin map](../../_assets/image123.png)
 
 |                     **No**                    |   **Name**  |                     **No**                    |   **Name**  |
 | :-------------------------------------------: | :---------: | :-------------------------------------------: | :---------: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) | GPIO\_GPIO0 | ![Adobe Systems](../../.gitbook/assets/6.png) | GPIO\_GPIO4 |
-| ![Adobe Systems](../../.gitbook/assets/2.png) | GPIO\_GPIO1 | ![Adobe Systems](../../.gitbook/assets/7.png) | GPIO\_GPIO5 |
-| ![Adobe Systems](../../.gitbook/assets/3.png) | GPIO\_GPIO2 | ![Adobe Systems](../../.gitbook/assets/8.png) | GPIO\_GPIO6 |
-| ![Adobe Systems](../../.gitbook/assets/4.png) | GPIO\_GPIO3 | ![Adobe Systems](../../.gitbook/assets/9.png) | GPIO\_GPIO7 |
-| ![Adobe Systems](../../.gitbook/assets/5.png) |     GND     |                                               |             |
+| ![Adobe Systems](../../_assets/1.png) | GPIO\_GPIO0 | ![Adobe Systems](../../_assets/6.png) | GPIO\_GPIO4 |
+| ![Adobe Systems](../../_assets/2.png) | GPIO\_GPIO1 | ![Adobe Systems](../../_assets/7.png) | GPIO\_GPIO5 |
+| ![Adobe Systems](../../_assets/3.png) | GPIO\_GPIO2 | ![Adobe Systems](../../_assets/8.png) | GPIO\_GPIO6 |
+| ![Adobe Systems](../../_assets/4.png) | GPIO\_GPIO3 | ![Adobe Systems](../../_assets/9.png) | GPIO\_GPIO7 |
+| ![Adobe Systems](../../_assets/5.png) |     GND     |                                               |             |
 
 
 
-![Figure 43 DCIN (power connector) pin map](../../.gitbook/assets/image124.png)
+![Figure 43 DCIN (power connector) pin map](../../_assets/image124.png)
 
 |                     **No**                    | **Name** |
 | :-------------------------------------------: | :------: |
-| ![Adobe Systems](../../.gitbook/assets/1.png) |   DC24V  |
-| ![Adobe Systems](../../.gitbook/assets/2.png) |    FG    |
-| ![Adobe Systems](../../.gitbook/assets/3.png) |    GND   |
+| ![Adobe Systems](../../_assets/1.png) |   DC24V  |
+| ![Adobe Systems](../../_assets/2.png) |    FG    |
+| ![Adobe Systems](../../_assets/3.png) |    GND   |

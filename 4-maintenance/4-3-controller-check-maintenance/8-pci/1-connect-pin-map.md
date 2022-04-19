@@ -2,7 +2,7 @@
 
 　The pin composition of communication connectors varies depending on PCI communication cards.
 
-![Figure 47 Ethernet pin assignments of RJ45 sockets](../../../.gitbook/assets/image127.png)
+![Figure 47 Ethernet pin assignments of RJ45 sockets](../../../_assets/image127.png)
 
 | **No** | **Signal** | 　　　　**Description**                                                                                  |
 | :----: | :--------: | ---------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 |    7   |    Term2   | <p>Connected to each other and terminated to PE through RC circuit</p><p>(Bob Smith Termination)</p> |
 |    8   |    Term2   | <p>Connected to each other and terminated to PE through RC circuit</p><p>(Bob Smith Termination)</p> |
 
-![Figure 48 CC-link interface (CombiCon male connector, 5-pin)](../../../.gitbook/assets/image128.png)
+![Figure 48 CC-link interface (CombiCon male connector, 5-pin)](../../../_assets/image128.png)
 
 | **No** | **Signal** | 　　　　**Description** |
 | :----: | :--------: | ------------------- |
@@ -25,7 +25,7 @@
 |    4   |     SLD    | Shield              |
 |    5   |     FG     | Field Ground        |
 
-![Figure 49 DeviceNet interface (CombiCon male connector, 5-pin)](../../../.gitbook/assets/image129.png)
+![Figure 49 DeviceNet interface (CombiCon male connector, 5-pin)](../../../_assets/image129.png)
 
 | **No** | **Signal** | 　　　　**Description**                          |
 | :----: | :--------: | -------------------------------------------- |
@@ -35,7 +35,7 @@
 |    4   |   CAN\_H   | CAN High-Signal                              |
 |    5   |     V+     | +24 V DeviceNet supply voltage               |
 
-![Figure 50 PROFIBUS interface (Dsub female connector, 9-pin](../../../.gitbook/assets/image130.png)
+![Figure 50 PROFIBUS interface (Dsub female connector, 9-pin](../../../_assets/image130.png)
 
 | **No** | **Signal** | 　　　　**Description**                                |
 | :----: | :--------: | -------------------------------------------------- |

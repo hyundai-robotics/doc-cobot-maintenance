@@ -1,6 +1,6 @@
 # 6.1.2 YL012 H-axis
 
-![](../../.gitbook/assets/image136.png)
+![](../../_assets/image136.png)
 
 |  **No**  |    **Description**    | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :------: | :-------------------: | :--------------------------------------------------------------------: | :----------: |

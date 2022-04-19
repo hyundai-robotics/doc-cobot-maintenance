@@ -6,7 +6,7 @@ To move the collaborative robot manually, set it at the posture adequate for mov
 
 
 
-![Figure 51 Manual moving](<../../.gitbook/assets/image (30).png>)
+![Figure 51 Manual moving](<../../_assets/image (30).png>)
 
 
 
@@ -22,9 +22,9 @@ To move the collaborative robot manually, set it at the posture adequate for mov
 
 To move the collaborative robot using a crane, set the robot at the posture adequate for lifting, connect it to the crane with sling belts, lift it, and move it to the target location.
 
-![Figure 52 Moving with a crane YL012](<../../.gitbook/assets/image (31).png>)
+![Figure 52 Moving with a crane YL012](<../../_assets/image (31).png>)
 
-![Figure 53 Moving with a crane YL005 (left) / YL015 (DN)](<../../.gitbook/assets/image (32).png>)
+![Figure 53 Moving with a crane YL005 (left) / YL015 (DN)](<../../_assets/image (32).png>)
 
 *   The adequate robot posture for lifting is the same as that for the manual moving.
 

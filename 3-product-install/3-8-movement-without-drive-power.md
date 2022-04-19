@@ -21,7 +21,7 @@ Movement without drive power can be used by using the **\[Brake Release Function
 
 3. Check the robot’s condition and release the brake on the desired axis.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../_assets/image (25).png>)
 
 
 
@@ -34,4 +34,4 @@ Movement without drive power can be used by using the **\[Brake Release Function
 **\[Caution]**: You can release the brake of the axis only in the **\[Brake Release Function]** menu of the teach pendant. All brakes are locked as soon as you leave this menu.
 {% endhint %}
 
-
+

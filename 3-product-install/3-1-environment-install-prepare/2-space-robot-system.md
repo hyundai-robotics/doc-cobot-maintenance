@@ -6,7 +6,7 @@ In collaborative operation in which the operator is allowed to contact the robot
 
 
 
-![](../../.gitbook/assets/robot\_system\_area\_2.png)
+![](../../_assets/robot\_system\_area\_2.png)
 
 *   **Operating space**: A part of the restricted space that is used while the robot moves according to the operating program
 
@@ -27,15 +27,15 @@ Not all postures are possible even within the working area, so it is recommended
 
 ### <mark style="color:green;">YL005: 916 mm</mark>
 
-![](../../.gitbook/assets/YL005\_area.png)
+![](../../_assets/YL005\_area.png)
 
 ### <mark style="color:green;">YL012: 1,305 mm</mark>
 
-![](../../.gitbook/assets/YL012\_area.png)
+![](../../_assets/YL012\_area.png)
 
 ### <mark style="color:green;">YL015: 963 mm</mark>
 
-![](../../.gitbook/assets/YL015\_area.png)
+![](../../_assets/YL015\_area.png)
 
 {% hint style="info" %}
 In the above cylindrical space passing through the S-axis, even if the tool flange moves slowly, other joints move quickly, possibly causing inefficient operation and damage to the robot. Therefore, it is not recommended to perform any operation in this space.

@@ -1,6 +1,6 @@
 # 6.2.1 Collaborative robot
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../_assets/image (33).png>)
 
 {% hint style="info" %}
 The maximum operating range of the wrist axis can be changed to 360°according to the situation of the application process. Please contact customer support for more information on this.

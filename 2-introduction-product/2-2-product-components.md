@@ -1,16 +1,16 @@
 # 2.2 Product components
 
-![Collaborative robot](../.gitbook/assets/cobot.png)
+![Collaborative robot](../_assets/cobot.png)
 
-![Controller](../.gitbook/assets/controller.png)
+![Controller](../_assets/controller.png)
 
-![Teach pendant](../.gitbook/assets/tp.png)
+![Teach pendant](../_assets/tp.png)
 
-![Robot connection cable](../.gitbook/assets/cable.png)
+![Robot connection cable](../_assets/cable.png)
 
-![Power connector](../.gitbook/assets/connector.png)
+![Power connector](../_assets/connector.png)
 
-![User manual](../.gitbook/assets/maunal.png)
+![User manual](../_assets/maunal.png)
 
 {% hint style="info" %}
 * The available collaborative robot models are YL005, YL012, and YL015. This maintenance manual describes the methods for assembling, installing, using, and maintaining them based on the YL012 model.

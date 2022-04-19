@@ -2,11 +2,11 @@
 
 Common digital input signals are connected through Terminal Block, TBDIO (eight signals at the maximum can be connected). In the following example, External Device is input to GDIN1, and External Device 2 is input to GDIN6.
 
-![Figure 32 Connection of common digital input signals (TBDIO)](../../../.gitbook/assets/image113.png)
+![Figure 32 Connection of common digital input signals (TBDIO)](../../../_assets/image113.png)
 
 Common digital output signals are connected through Terminal Block, TBDIO (eight at the maximum). In the following example, the load of External Device 1 is operated through the output to GDOUT2, and the load of External Device 2 is operated through the output to GDOUT7.
 
-![Figure 33 Connection of common digital output signals (TBDIO)](../../../.gitbook/assets/image114.png)
+![Figure 33 Connection of common digital output signals (TBDIO)](../../../_assets/image114.png)
 
 | **No** |   **Name**   | 　　　　　　　　**Usage**               |
 | :----: | :----------: | ------------------------------- |

@@ -2,7 +2,7 @@
 
 The I/O signals dedicated to the robot system are connected through TBSYS1, the terminal block of the safety control module.
 
-![Figure 29 Connection of I/O signals for the robot system (TBSYS1)](../../../.gitbook/assets/image110.png)
+![Figure 29 Connection of I/O signals for the robot system (TBSYS1)](../../../_assets/image110.png)
 
 \* The pins 3 through 8 and 11 through 16 are used as dedicated signals inside the control system.
 
@@ -25,4 +25,4 @@ The I/O signals dedicated to the robot system are connected through TBSYS1, the 
 |    15   |   /PRON   | Precharge relay actuation output                                                                     |
 |    16   | RSV\_OUT2 | Reserved signal output                                                                               |
 
-
+

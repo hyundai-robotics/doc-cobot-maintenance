@@ -2,7 +2,7 @@
 
 The connector layout, usages, and connecting devices used by the SCM are as follows:
 
-![Figure 28 Safety control board (BD6F1)](../../../.gitbook/assets/image109.png)
+![Figure 28 Safety control board (BD6F1)](../../../_assets/image109.png)
 
 | **Connector** | 　　　　　　　　　**Usage**                                                                                                                                   |            **External connecting device**            |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------: |

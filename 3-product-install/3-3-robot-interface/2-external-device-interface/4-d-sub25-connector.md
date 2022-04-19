@@ -9,7 +9,7 @@ Set the safety I/O signals according to usages, referring to “[**Safety Functi
 
 * Output signals: STO activation status, SOS activation status, Reduced mode activation status, Not reduced mode, Robot moving, Robot not stopping, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space status #1 - #12, Violation alarm, TCP speed violation, TCP orientation violation, TCP force violation, Collision detection, Momentum violation, Power violation, SOS violation, Joint position violation, Joint speed violation, Cartesian space violation #1 - #12
 
-![](../../../.gitbook/assets/d-sub25.png)
+![](../../../_assets/d-sub25.png)
 
 |               **Pin number**               |                      **1**                     |                      **2**                     |                      **3**                     |                      **4**                     |                      **5**                     |
 | :----------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
@@ -45,9 +45,9 @@ Set the safety I/O signals according to usages, referring to “[**Safety Functi
 
 This signal is connected to the Safety control module installed inside the controller. For more details on signal connection, refer to “[**4.3.2.3 Safety I/O signal connection (TBSDI, TBSDO)**](../../../4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/3-tbsdi-tbsdo.md).”
 
-![Figure 24 Method for connecting universal safety input and output signals](../../../.gitbook/assets/d-sub25\_3.png)
+![Figure 24 Method for connecting universal safety input and output signals](../../../_assets/d-sub25\_3.png)
 
-![Figure 25 Method for connecting universal safety input and output signals (PLCs)](../../../.gitbook/assets/d-sub25\_4.png)
+![Figure 25 Method for connecting universal safety input and output signals (PLCs)](../../../_assets/d-sub25\_4.png)
 
 {% hint style="warning" %}
 **\[Caution]**

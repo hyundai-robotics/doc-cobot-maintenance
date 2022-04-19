@@ -1,6 +1,6 @@
 # 6.1.4 YL012 R-axis
 
-![](../../.gitbook/assets/image138.png)
+![](../../_assets/image138.png)
 
 |  **No**  |    **Description**    | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :------: | :-------------------: | :--------------------------------------------------------------------: | :----------: |

@@ -2,7 +2,7 @@
 
 The safety input signals of the safety control module receive the inputs from the emergency stop switch and the safeguard through Terminal Block, TBSDI.
 
-![Figure 30 Safety input signal connection (TBSDI)](../../../.gitbook/assets/image111.png)
+![Figure 30 Safety input signal connection (TBSDI)](../../../_assets/image111.png)
 
 | **No** |  **Name** | 　　　　　　　**Usage**                       |
 | :----: | :-------: | -------------------------------------- |
@@ -25,7 +25,7 @@ The safety input signals of the safety control module receive the inputs from th
 
 The safety signals of the safety control module receive output to the safety devices necessary for the application through Terminal Block, TBSDO.
 
-![Figure 31 Safety output signal connection (TBSDO)](../../../.gitbook/assets/image112.png)
+![Figure 31 Safety output signal connection (TBSDO)](../../../_assets/image112.png)
 
 | **No** |  **Name** | 　　　　　　　**Usage**                             |
 | :----: | :-------: | -------------------------------------------- |

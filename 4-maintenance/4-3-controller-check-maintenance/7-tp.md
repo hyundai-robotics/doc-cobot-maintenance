@@ -2,7 +2,7 @@
 
 The teach pendant (TP600) directly manipulates the collaborative robot and checks its state of operation and setting.
 
-![Figure 44 Teach pendant](../../.gitbook/assets/tp.png)
+![Figure 44 Teach pendant](../../_assets/tp.png)
 
 The teach pendant is connected with the microcomputer module (miniH6COM, EBC-GF53) through Ethernet communication and has major functions as follows:
 

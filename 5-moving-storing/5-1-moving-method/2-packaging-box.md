@@ -2,7 +2,7 @@
 
 The specifications of the packaging box for product transportation are as follows:
 
-![Figure 54 Packaging box for product transportation](../../.gitbook/assets/image134.png)
+![Figure 54 Packaging box for product transportation](../../_assets/image134.png)
 
 | **Model** | **Length** **(L)** | **Width (W)** | **Height (H)** |
 | :-------: | :----------------: | :-----------: | :------------: |

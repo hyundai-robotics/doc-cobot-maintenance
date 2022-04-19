@@ -1,6 +1,6 @@
 # 6.1.1 YL012 S-axis
 
-![](../../.gitbook/assets/image135.png)
+![](../../_assets/image135.png)
 
 |   **No**  |    **Description**    | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :-------: | :-------------------: | :--------------------------------------------------------------------: | :----------: |

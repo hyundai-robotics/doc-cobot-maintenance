@@ -2,7 +2,7 @@
 
 You can connect D-sub 24-pin connectors (SDIOs) to two ports for external communication. For more details of signal connection, see “[**4.3.5 Microcomputer module**](../../../4-maintenance/4-3-controller-check-maintenance/5-microcomputer-module.md).”
 
-![](../../../.gitbook/assets/d-sub9.png)
+![](../../../_assets/d-sub9.png)
 
 \* Internal connections of the controller (miniH6COM COM1, COM2) / \* n=1, 2 (COM port number)
 

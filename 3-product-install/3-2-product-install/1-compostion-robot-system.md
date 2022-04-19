@@ -2,7 +2,7 @@
 
 A collaborative robot system, as an integrated system interfaced with peripheral devices, should be composed and connected with a selection of adequate peripheral devices.
 
-![](../../.gitbook/assets/robot\_system\_compostion\_2.png)
+![](../../_assets/robot\_system\_compostion\_2.png)
 
 *   **Teach pendant**: This is the I/O device that enables command input and state view for controlling the entire robot system. It can teach specific postures to the robot or set/control the program.
 

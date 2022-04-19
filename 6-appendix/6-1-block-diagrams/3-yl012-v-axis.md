@@ -1,6 +1,6 @@
 # 6.1.3 YL012 V-axis
 
-![](../../.gitbook/assets/image137.png)
+![](../../_assets/image137.png)
 
 |   **No**  |    **Description**    | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :-------: | :-------------------: | :--------------------------------------------------------------------: | :----------: |

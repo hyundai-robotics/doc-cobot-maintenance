@@ -9,7 +9,7 @@
 
 2\. Put the Manipulator on the installation point.
 
-![](../../../.gitbook/assets/install\_1.png)
+![](../../../_assets/install\_1.png)
 
 {% hint style="warning" %}
 **\[Warning]**: Because the manipulator cannot stand by itself, the installation requires two or more workers. While one worker holds the robot, the other worker(s) should fixate it.
@@ -17,7 +17,7 @@
 
 3\. Using hex wrench bolts (M8 (12.9), four pieces), fixate the manipulator.
 
-![](../../../.gitbook/assets/install\_2.png)
+![](../../../_assets/install\_2.png)
 
 *   The proper tightening torque of the bolts is 340 kgf/cm.
 

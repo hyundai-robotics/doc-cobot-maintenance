@@ -1,6 +1,6 @@
 # 6.1.5  YL012 B-axis
 
-![](../../.gitbook/assets/image139.png)
+![](../../_assets/image139.png)
 
 |  **No**  |     **Description**     | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :------: | :---------------------: | :--------------------------------------------------------------------: | :----------: |

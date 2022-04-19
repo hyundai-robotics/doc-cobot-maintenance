@@ -8,24 +8,24 @@ Fasten the bolts mounting the integrated driving module of each axis with a torq
 
 * S-axis parts to be checked – Bolts : 10 X M5-18 / torque: 8.2 Nm (83 kgf/cm)&#x20;
 
-![](../../.gitbook/assets/image100.png)
+![](../../_assets/image100.png)
 
 * H-axis parts to be checked – Bolts : 10 X M6-20 / torque: 13.82 Nm (141 kgf/cm)
 
-![](../../.gitbook/assets/image101.png)
+![](../../_assets/image101.png)
 
 * V-axis parts to be checked – Bolts : 10 X M5-20 / torque: 8.2 Nm (83 kgf/cm)
 
-![](../../.gitbook/assets/image102.png)
+![](../../_assets/image102.png)
 
 * R2-axis parts to be checked – Bolts : 10 X M4-25 / torque: 4.02 Nm (41 kgf/cm)
 
-![](../../.gitbook/assets/image103.png)
+![](../../_assets/image103.png)
 
 * B축 점검 부위 - 볼트: 8 X M4-20 / 토크: 4.02 Nm (41 kgf·cm)
 
-![](../../.gitbook/assets/image104.png)
+![](../../_assets/image104.png)
 
 * B-axis parts to be checked – Bolts : 8 X M4-20 / torque: 4.02 Nm (41 kgf/cm)
 
-![](../../.gitbook/assets/image105.png)
+![](../../_assets/image105.png)

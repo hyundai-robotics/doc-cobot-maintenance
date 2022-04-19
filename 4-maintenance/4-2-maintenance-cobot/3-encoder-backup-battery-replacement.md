@@ -12,16 +12,16 @@ The method for replacing the encoder backup battery of each axis is as follows:
 
 2\. Identify the position of the battery of each axis, and remove the frame cover of the battery by removing bolts with a torque wrench.
 
-![](../../.gitbook/assets/image106.png)
+![](../../_assets/image106.png)
 
 |               **No**               | **Axis** |        **Cover**        |               **Bolts**               |
 | :--------------------------------: | :------: | :---------------------: | :-----------------------------------: |
-|  ![](../../.gitbook/assets/1.png)  |     S    |    LOWER FRAME COVER    |  Hex socket bolts (M3X6, five pieces) |
-|  ![](../../.gitbook/assets/2.png)  |     H    | UPPER FRAME LOWER COVER |  Hex socket bolts (M3X6, five pieces) |
-|  ![](../../.gitbook/assets/3.png)  |     V    | UPPER FRAME UPPER COVER |  Hex socket bolts (M3X6, six pieces)  |
-|  ![](../../.gitbook/assets/4.png)  |    R2    |     ARM FRAME COVER     |  Hex socket bolts (M3X6, six pieces)  |
-|  ![](../../.gitbook/assets/5.png)  |     B    |      ARM PIPE COVER     |  Hex socket bolts (M3X6, six pieces)  |
-|  ![](../../.gitbook/assets/6.png)  |    R1    |        HAND GRIP        | M3 small-diameter bolts (four pieces) |
+|  ![](../../_assets/1.png)  |     S    |    LOWER FRAME COVER    |  Hex socket bolts (M3X6, five pieces) |
+|  ![](../../_assets/2.png)  |     H    | UPPER FRAME LOWER COVER |  Hex socket bolts (M3X6, five pieces) |
+|  ![](../../_assets/3.png)  |     V    | UPPER FRAME UPPER COVER |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/4.png)  |    R2    |     ARM FRAME COVER     |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/5.png)  |     B    |      ARM PIPE COVER     |  Hex socket bolts (M3X6, six pieces)  |
+|  ![](../../_assets/6.png)  |    R1    |        HAND GRIP        | M3 small-diameter bolts (four pieces) |
 
 3\. Identify the orientation of the battery terminals, and replace the old battery with a new one.
 

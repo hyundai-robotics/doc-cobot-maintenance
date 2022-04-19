@@ -4,12 +4,12 @@ The maximum payloads of collaborative robots vary depending on distances to the 
 
 ### <mark style="color:green;">YL005</mark>
 
-![](../../.gitbook/assets/YL005\_payload.png)
+![](../../_assets/YL005\_payload.png)
 
 ### <mark style="color:green;">YL012</mark>
 
-![](../../.gitbook/assets/YL012\_payload.png)
+![](../../_assets/YL012\_payload.png)
 
 ### <mark style="color:green;">YL015</mark>
 
-![](../../.gitbook/assets/YL015\_payload.png)
+![](../../_assets/YL015\_payload.png)

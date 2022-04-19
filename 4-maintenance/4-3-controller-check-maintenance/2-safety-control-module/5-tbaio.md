@@ -2,11 +2,11 @@
 
 Common analog input signals are connected through TBAIO (two at the maximum). In the following example, External Device 1 is input to GAIN0, and External Device 2 is input to GAIN1.
 
-![Figure 34 Connection of common digital input signals (TBAIO)](../../../.gitbook/assets/image115.png)
+![Figure 34 Connection of common digital input signals (TBAIO)](../../../_assets/image115.png)
 
 Common analog output signals are connected through TBDIO (two at the maximum). In the following example, the load of External Device 1 is operated through the output to GAOUT0, and the load of External Device 2 is operated through the output to GAOUT1.
 
-![Figure 35 Connection of common analog output signals (TBAIO)](../../../.gitbook/assets/image116.png)
+![Figure 35 Connection of common analog output signals (TBAIO)](../../../_assets/image116.png)
 
 | **No** | **Name** | 　　　　　　　**Usage**                        |
 | :----: | :------: | --------------------------------------- |

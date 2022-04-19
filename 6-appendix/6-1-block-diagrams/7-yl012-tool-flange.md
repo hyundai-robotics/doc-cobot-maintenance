@@ -1,6 +1,6 @@
 # 6.1.7 YL012 tool flange
 
-![](../../.gitbook/assets/image141.png)
+![](../../_assets/image141.png)
 
 |  **No**  |          **Description**         | <p><strong>Material</strong></p><p><strong>(manufacturer)</strong></p> | **Quantity** |
 | :------: | :------------------------------: | :--------------------------------------------------------------------: | :----------: |

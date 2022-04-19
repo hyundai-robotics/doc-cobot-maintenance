@@ -16,7 +16,7 @@ The firmness of the floor on which the manipulator will be installed should be d
 
 
 
-![](../../../.gitbook/assets/mounting\_plate.png)
+![](../../../_assets/mounting\_plate.png)
 
 *   The flatness of the other areas should be no more than ±0.2 mm.
 
@@ -27,4 +27,4 @@ The firmness of the floor on which the manipulator will be installed should be d
 *   The flatness of the four contacting surfaces of the mounting plates should be no more than 0.2 mm (±0.1 mm).
 
 
-* Fill any gaps with shims when necessary.
+* Fill any gaps with shims when necessary.

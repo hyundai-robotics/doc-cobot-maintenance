@@ -2,14 +2,22 @@
 
 You can connect various external devices to the external device interface on the front of the controller.
 
-![Figure 19 External device interface](../../../.gitbook/assets/external\_device\_interface.png)
+![Figure 19 External device interface](../../../_assets/external\_device\_interface.png)
 
 |                 **No**                | 　　　　　　　　　**Description**                                                                                                                                    |
 | :-----------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  ![](../../../.gitbook/assets/1.png)  | LAN port                                                                                                                                                    |
-|  ![](../../../.gitbook/assets/2.png)  | USB port                                                                                                                                                    |
-|  ![](../../../.gitbook/assets/3.png)  | <p>D-SUB connectors</p><ul><li>9-pin (COM1, COM2): serial communication (RS485, 422, 232)</li><li>25-pin (SDIO): common digital I/O</li></ul>            |
-|  ![](../../../.gitbook/assets/4.png)  | <p>Terminal blocks</p><ul><li>TB1: common analog I/O</li><li>TB2: dedicated safety signal input</li><li><p>TB3: system signal I/O</p><p></p></li></ul> |
+|  ![](../../../_assets/1.png)  | LAN port                                                                                                                                                    |
+|  ![](../../../_assets/2.png)  | USB port                                                                                                                                                    |
+|  ![](../../../_assets/3.png)  | <p>D-SUB connectors
+</p><ul><li>9-pi_assets serial communication (RS485, 422, 232)
+</li><li>25-pin (SDIO): common digital I/O
+</li></ul>            |
+|  ![](../../../.gitbook/assets/4.png)  | <p>Terminal blocks
+</p><ul><li>TB1: common analog I/O
+</li><li>TB2: dedicated safety signal input
+</li><li><p>TB3: system signal I/O
+</p><p>
+</p></li></ul> |
 
 {% hint style="info" %}
 * The external device interface is described based on the composition of basic connections.
