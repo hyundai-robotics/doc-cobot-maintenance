@@ -12,7 +12,7 @@ At STOP0, the stopping distance and time of the models at different extension an
 
 
 
-![](<../../_assets/image (18).png>)
+![](<../../_assets/image_18.png>)
 
 
 

@@ -14,15 +14,15 @@ At STOP1, the stopping distance and time of the models at different axial extens
 
 * Load: L=33%
 
-![](<../../_assets/image (17).png>)
+![](<../../_assets/image_17.png>)
 
 * Load: L=66%
 
-![](<../../_assets/image (16).png>)
+![](<../../_assets/image_16.png>)
 
 * Load: L=100%
 
-![](<../../_assets/image (15).png>)
+![](<../../_assets/image_15.png>)
 
 ## <mark style="color:green;">YL012</mark>
 
@@ -34,15 +34,15 @@ At STOP1, the stopping distance and time of the models at different axial extens
 
 * Load: L=33%
 
-![](<../../_assets/image (19).png>)
+![](<../../_assets/image_19.png>)
 
 * Load: L=66%
 
-![](<../../_assets/image (20).png>)
+![](<../../_assets/image_20.png>)
 
 * Load: L=100%
 
-![](<../../_assets/image (21).png>)
+![](<../../_assets/image_21.png>)
 
 ## <mark style="color:green;">YL015</mark>
 
@@ -54,12 +54,12 @@ At STOP1, the stopping distance and time of the models at different axial extens
 
 * Load: L=33%
 
-![](<../../_assets/image (22).png>)
+![](<../../_assets/image_22.png>)
 
 * Load: L=66%
 
-![](<../../_assets/image (23).png>)
+![](<../../_assets/image_23.png>)
 
 * Load: L=100%
 
-![](<../../_assets/image (24).png>)
+![](<../../_assets/image_24.png>)

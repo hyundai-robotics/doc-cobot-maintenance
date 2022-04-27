@@ -21,7 +21,7 @@ Movement without drive power can be used by using the **\[Brake Release Function
 
 3. Check the robot’s condition and release the brake on the desired axis.
 
-![](<../_assets/image (25).png>)
+![](<../_assets/image_25.png>)
 
 
 

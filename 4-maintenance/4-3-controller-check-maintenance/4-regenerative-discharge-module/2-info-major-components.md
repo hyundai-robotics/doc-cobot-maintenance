@@ -2,7 +2,7 @@
 
 The regenerative discharge board uses fuses for protecting components against overcurrent and a regenerative discharge resistor. The fuses are mounted at the upstream of the board and at the upstream of the regenerative discharge resistor, while the resistor is mounted at the downstream of the board. For the inside composition and component specifications, see the following figure and table.
 
-![Figure 39 Inside view of the RDM](<../../../_assets/image (29).png>)
+![Figure 39 Inside view of the RDM](<../../../_assets/image_29.png>)
 
 |                        **Component**                       | 　　　　　　　　**Usage**                                                                                                | **Specification** |
 | :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------- | :---------------: |

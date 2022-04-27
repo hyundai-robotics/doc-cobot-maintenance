@@ -8,19 +8,19 @@ On the inside and outside of the controller, nameplates, warning signs, safety s
 
 #### ![](../../_assets/1.png) Caution for Power and Grounding
 
-![Korean (left) / English (right)](<../../_assets/image (6).png>)
+![Korean (left) / English (right)](<../../_assets/image_6.png>)
 
 #### ![](../../_assets/2.png) High voltage Indication
 
-![Korean / English](<../../_assets/image (7).png>)
+![Korean / English](<../../_assets/image_7.png>)
 
 #### &#x20;![](../../_assets/3.png) Input power Indication
 
-![Korean / English](<../../_assets/image (9).png>)
+![Korean / English](<../../_assets/image_9.png>)
 
 #### ![](../../_assets/4.png)Air irculation of ventiduct&#xD; precautions
 
-![Korean (left) / English (right)](<../../_assets/image (8).png>)
+![Korean (left) / English (right)](<../../_assets/image_8.png>)
 
 #### ![](../../_assets/5.png)NRTL Certification mark
 
@@ -28,15 +28,15 @@ On the inside and outside of the controller, nameplates, warning signs, safety s
 
 #### ![](../../_assets/6.png)Nameplate
 
-![Korean (left) / English (right)](<../../_assets/image (10).png>)
+![Korean (left) / English (right)](<../../_assets/image_10.png>)
 
 #### ![](../../_assets/7.png)high voltage&#xD; Warning&#xD;
 
-![Korean (left) / English (right)](<../../_assets/image (11).png>)
+![Korean (left) / English (right)](<../../_assets/image_11.png>)
 
 #### ![](../../_assets/8.png)Installation precautions
 
-![Korean (left) / English (right)](<../../_assets/image (12).png>)
+![Korean (left) / English (right)](<../../_assets/image_12.png>)
 
 #### ![](../../_assets/9.png)Functional safety Certification mark
 
@@ -44,7 +44,7 @@ On the inside and outside of the controller, nameplates, warning signs, safety s
 
 #### ![](../../_assets/10.png)Ground wire connection precautions
 
-![Korean (left) / English (right)](<../../_assets/image (13).png>)
+![Korean (left) / English (right)](<../../_assets/image_13.png>)
 
 #### ![](../../_assets/11.png)Ground mark&#xD;
 
