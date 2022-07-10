@@ -1,0 +1,597 @@
+﻿[
+	{
+		"link": "README.md",
+		"char_ofs": 0,
+		"byte_ofs": 0
+	},
+	{
+		"link": "about-this-manual/README.md",
+		"char_ofs": 506,
+		"byte_ofs": 525
+	},
+	{
+		"link": "about-this-manual/copyright.md",
+		"char_ofs": 1974,
+		"byte_ofs": 1998
+	},
+	{
+		"link": "about-this-manual/notation.md",
+		"char_ofs": 2342,
+		"byte_ofs": 2373
+	},
+	{
+		"link": "about-this-manual/safety-notice.md",
+		"char_ofs": 4279,
+		"byte_ofs": 4356
+	},
+	{
+		"link": "1-safety/README.md",
+		"char_ofs": 9803,
+		"byte_ofs": 9905
+	},
+	{
+		"link": "1-safety/1-1-safety-requirements/README.md",
+		"char_ofs": 9816,
+		"byte_ofs": 9920
+	},
+	{
+		"link": "1-safety/1-1-safety-requirements/1-applicable-standards.md",
+		"char_ofs": 9843,
+		"byte_ofs": 9949
+	},
+	{
+		"link": "1-safety/1-1-safety-requirements/2-safety-performance.md",
+		"char_ofs": 13190,
+		"byte_ofs": 13315
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/README.md",
+		"char_ofs": 13885,
+		"byte_ofs": 14021
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/1-safety-functions.md",
+		"char_ofs": 14043,
+		"byte_ofs": 14182
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/2-safety-training.md",
+		"char_ofs": 14922,
+		"byte_ofs": 15084
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/3-safety-labels.md",
+		"char_ofs": 16317,
+		"byte_ofs": 16487
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/4-emergency-stop/README.md",
+		"char_ofs": 18555,
+		"byte_ofs": 18784
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/4-emergency-stop/1-switches.md",
+		"char_ofs": 19060,
+		"byte_ofs": 19293
+	},
+	{
+		"link": "1-safety/1-2-safety-measures/4-emergency-stop/2-connecting-to-devices-of-external-system.md",
+		"char_ofs": 19418,
+		"byte_ofs": 19658
+	},
+	{
+		"link": "1-safety/1-3-risk-assessment.md",
+		"char_ofs": 20108,
+		"byte_ofs": 20358
+	},
+	{
+		"link": "1-safety/1-4-potential-risks.md",
+		"char_ofs": 23457,
+		"byte_ofs": 23741
+	},
+	{
+		"link": "1-safety/1-5-validity-and-responsibilities.md",
+		"char_ofs": 24795,
+		"byte_ofs": 25093
+	},
+	{
+		"link": "2-introduction-product/README.md",
+		"char_ofs": 25894,
+		"byte_ofs": 26202
+	},
+	{
+		"link": "2-introduction-product/2-1-intended-uses-product.md",
+		"char_ofs": 26644,
+		"byte_ofs": 26961
+	},
+	{
+		"link": "2-introduction-product/2-2-product-components.md",
+		"char_ofs": 27748,
+		"byte_ofs": 28073
+	},
+	{
+		"link": "2-introduction-product/2-3-part-names/README.md",
+		"char_ofs": 28532,
+		"byte_ofs": 28878
+	},
+	{
+		"link": "2-introduction-product/2-3-part-names/1-manipulator.md",
+		"char_ofs": 28651,
+		"byte_ofs": 29000
+	},
+	{
+		"link": "2-introduction-product/2-3-part-names/2-controller.md",
+		"char_ofs": 38917,
+		"byte_ofs": 39323
+	},
+	{
+		"link": "2-introduction-product/2-3-part-names/3-teach-pendant.md",
+		"char_ofs": 41457,
+		"byte_ofs": 41892
+	},
+	{
+		"link": "2-introduction-product/2-4-nameplate.md",
+		"char_ofs": 46407,
+		"byte_ofs": 46872
+	},
+	{
+		"link": "3-product-install/README.md",
+		"char_ofs": 46943,
+		"byte_ofs": 47419
+	},
+	{
+		"link": "3-product-install/3-1-environment-install-prepare/README.md",
+		"char_ofs": 48207,
+		"byte_ofs": 48700
+	},
+	{
+		"link": "3-product-install/3-1-environment-install-prepare/1-environments-install-and-use.md",
+		"char_ofs": 48258,
+		"byte_ofs": 48753
+	},
+	{
+		"link": "3-product-install/3-1-environment-install-prepare/2-space-robot-system.md",
+		"char_ofs": 49486,
+		"byte_ofs": 49994
+	},
+	{
+		"link": "3-product-install/3-1-environment-install-prepare/3-allow-limit-wrist-axis-load.md",
+		"char_ofs": 51352,
+		"byte_ofs": 51902
+	},
+	{
+		"link": "3-product-install/3-1-environment-install-prepare/4-payload.md",
+		"char_ofs": 51652,
+		"byte_ofs": 52207
+	},
+	{
+		"link": "3-product-install/3-2-product-install/README.md",
+		"char_ofs": 52071,
+		"byte_ofs": 52641
+	},
+	{
+		"link": "3-product-install/3-2-product-install/1-compostion-robot-system.md",
+		"char_ofs": 53107,
+		"byte_ofs": 53685
+	},
+	{
+		"link": "3-product-install/3-2-product-install/2-robot-controller-install/README.md",
+		"char_ofs": 53992,
+		"byte_ofs": 54583
+	},
+	{
+		"link": "3-product-install/3-2-product-install/2-robot-controller-install/1-mounting-plate-install.md",
+		"char_ofs": 55912,
+		"byte_ofs": 56558
+	},
+	{
+		"link": "3-product-install/3-2-product-install/3-tool-connection.md",
+		"char_ofs": 57305,
+		"byte_ofs": 57984
+	},
+	{
+		"link": "3-product-install/3-2-product-install/4-wiring.md",
+		"char_ofs": 58358,
+		"byte_ofs": 59069
+	},
+	{
+		"link": "3-product-install/3-2-product-install/5-power-on.md",
+		"char_ofs": 60720,
+		"byte_ofs": 61469
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/README.md",
+		"char_ofs": 61079,
+		"byte_ofs": 61835
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/1-tool-flange-connection-point/README.md",
+		"char_ofs": 61808,
+		"byte_ofs": 62570
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/1-tool-flange-connection-point/1-t407107041-pin.md",
+		"char_ofs": 62759,
+		"byte_ofs": 63551
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/1-tool-flange-connection-point/2-t41171130012-pin.md",
+		"char_ofs": 63114,
+		"byte_ofs": 63914
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/1-tool-flange-connection-point/3-air-hose.md",
+		"char_ofs": 63862,
+		"byte_ofs": 64676
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/README.md",
+		"char_ofs": 63991,
+		"byte_ofs": 64808
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/1-tb1.md",
+		"char_ofs": 65819,
+		"byte_ofs": 66679
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/2-tb2.md",
+		"char_ofs": 67092,
+		"byte_ofs": 67980
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/3-tb3.md",
+		"char_ofs": 68412,
+		"byte_ofs": 69327
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/4-d-sub25-connector.md",
+		"char_ofs": 68898,
+		"byte_ofs": 69824
+	},
+	{
+		"link": "3-product-install/3-3-robot-interface/2-external-device-interface/5-d-sub9-connector.md",
+		"char_ofs": 78280,
+		"byte_ofs": 79288
+	},
+	{
+		"link": "3-product-install/3-4-stopping-distance-time/README.md",
+		"char_ofs": 79880,
+		"byte_ofs": 80909
+	},
+	{
+		"link": "3-product-install/3-4-stopping-distance-time/1-stop0.md",
+		"char_ofs": 80207,
+		"byte_ofs": 81240
+	},
+	{
+		"link": "3-product-install/3-4-stopping-distance-time/2-stop1.md",
+		"char_ofs": 80468,
+		"byte_ofs": 81519
+	},
+	{
+		"link": "3-product-install/3-5-safety-setting.md",
+		"char_ofs": 81375,
+		"byte_ofs": 82491
+	},
+	{
+		"link": "3-product-install/3-6-programming-and-restarting.md",
+		"char_ofs": 81601,
+		"byte_ofs": 82724
+	},
+	{
+		"link": "3-product-install/3-7-axis-limit-device.md",
+		"char_ofs": 82462,
+		"byte_ofs": 83596
+	},
+	{
+		"link": "3-product-install/3-8-movement-without-drive-power.md",
+		"char_ofs": 83153,
+		"byte_ofs": 84294
+	},
+	{
+		"link": "3-product-install/3-9-other-safety-precaution.md",
+		"char_ofs": 84948,
+		"byte_ofs": 86128
+	},
+	{
+		"link": "4-maintenance/README.md",
+		"char_ofs": 85556,
+		"byte_ofs": 86738
+	},
+	{
+		"link": "4-maintenance/4-1-check-sheet/README.md",
+		"char_ofs": 87283,
+		"byte_ofs": 88474
+	},
+	{
+		"link": "4-maintenance/4-1-check-sheet/1-check-sheet.md",
+		"char_ofs": 88259,
+		"byte_ofs": 89452
+	},
+	{
+		"link": "4-maintenance/4-1-check-sheet/2-wiring-check.md",
+		"char_ofs": 94228,
+		"byte_ofs": 95423
+	},
+	{
+		"link": "4-maintenance/4-1-check-sheet/3-bolt-check.md",
+		"char_ofs": 94996,
+		"byte_ofs": 96196
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/README.md",
+		"char_ofs": 96022,
+		"byte_ofs": 97282
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/1-replacement-internal-wiring.md",
+		"char_ofs": 96068,
+		"byte_ofs": 97330
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/README.md",
+		"char_ofs": 97116,
+		"byte_ofs": 98387
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/1-replacement-timing.md",
+		"char_ofs": 97460,
+		"byte_ofs": 98734
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/2-weight-module.md",
+		"char_ofs": 100742,
+		"byte_ofs": 102034
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/3-tools-parts.md",
+		"char_ofs": 101248,
+		"byte_ofs": 102550
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/4-recommended-posture-disassembling.md",
+		"char_ofs": 106798,
+		"byte_ofs": 108104
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/2-replacement-module/5-method-replacing-module.md",
+		"char_ofs": 108384,
+		"byte_ofs": 109700
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/3-encoder-backup-battery-replacement.md",
+		"char_ofs": 110633,
+		"byte_ofs": 111977
+	},
+	{
+		"link": "4-maintenance/4-2-maintenance-cobot/4-grease-replacement.md",
+		"char_ofs": 112954,
+		"byte_ofs": 114334
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/README.md",
+		"char_ofs": 113458,
+		"byte_ofs": 114840
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/1-internal-structure.md",
+		"char_ofs": 113817,
+		"byte_ofs": 115202
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/README.md",
+		"char_ofs": 116134,
+		"byte_ofs": 117540
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/1-connection-display.md",
+		"char_ofs": 116507,
+		"byte_ofs": 117923
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/2-tbsys1.md",
+		"char_ofs": 121181,
+		"byte_ofs": 122641
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/3-tbsdi-tbsdo.md",
+		"char_ofs": 123863,
+		"byte_ofs": 125365
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/4-tbdio.md",
+		"char_ofs": 126801,
+		"byte_ofs": 128378
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/5-tbaio.md",
+		"char_ofs": 128872,
+		"byte_ofs": 130497
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/6-info-major-components.md",
+		"char_ofs": 130201,
+		"byte_ofs": 131860
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/3-power-precharge-module/README.md",
+		"char_ofs": 131095,
+		"byte_ofs": 132762
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/3-power-precharge-module/1-connection-display.md",
+		"char_ofs": 131422,
+		"byte_ofs": 133094
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/3-power-precharge-module/2-info-major-components.md",
+		"char_ofs": 133319,
+		"byte_ofs": 135007
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/4-regenerative-discharge-module/README.md",
+		"char_ofs": 134359,
+		"byte_ofs": 136063
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/4-regenerative-discharge-module/1-connection-display.md",
+		"char_ofs": 134751,
+		"byte_ofs": 136462
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/4-regenerative-discharge-module/2-info-major-components.md",
+		"char_ofs": 136842,
+		"byte_ofs": 138575
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/5-microcomputer-module.md",
+		"char_ofs": 138341,
+		"byte_ofs": 140104
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/6-power-supply.md",
+		"char_ofs": 141722,
+		"byte_ofs": 143538
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/7-tp.md",
+		"char_ofs": 142599,
+		"byte_ofs": 144438
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/8-pci/README.md",
+		"char_ofs": 143976,
+		"byte_ofs": 145849
+	},
+	{
+		"link": "4-maintenance/4-3-controller-check-maintenance/8-pci/1-connect-pin-map.md",
+		"char_ofs": 149725,
+		"byte_ofs": 151670
+	},
+	{
+		"link": "5-moving-storing/README.md",
+		"char_ofs": 152775,
+		"byte_ofs": 154799
+	},
+	{
+		"link": "5-moving-storing/5-1-moving-method/README.md",
+		"char_ofs": 152888,
+		"byte_ofs": 154915
+	},
+	{
+		"link": "5-moving-storing/5-1-moving-method/1-recommend-posture.md",
+		"char_ofs": 155009,
+		"byte_ofs": 157087
+	},
+	{
+		"link": "5-moving-storing/5-1-moving-method/2-packaging-box.md",
+		"char_ofs": 155581,
+		"byte_ofs": 157668
+	},
+	{
+		"link": "5-moving-storing/5-1-moving-method/3-cautions.md",
+		"char_ofs": 156111,
+		"byte_ofs": 158209
+	},
+	{
+		"link": "5-moving-storing/5-2-storing-method.md",
+		"char_ofs": 157314,
+		"byte_ofs": 159421
+	},
+	{
+		"link": "5-moving-storing/5-3-disposal.md",
+		"char_ofs": 158641,
+		"byte_ofs": 160757
+	},
+	{
+		"link": "6-appendix/README.md",
+		"char_ofs": 160022,
+		"byte_ofs": 162139
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/README.md",
+		"char_ofs": 160037,
+		"byte_ofs": 162156
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/1-yl012-s-axis.md",
+		"char_ofs": 160059,
+		"byte_ofs": 162180
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/1-yl012-h-axis.md",
+		"char_ofs": 161374,
+		"byte_ofs": 163509
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/3-yl012-v-axis.md",
+		"char_ofs": 162554,
+		"byte_ofs": 164702
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/4-yl012-r2-axis.md",
+		"char_ofs": 163869,
+		"byte_ofs": 166031
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/5-yl012-b-axis.md",
+		"char_ofs": 165299,
+		"byte_ofs": 167476
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/6-yl012-r1-axis.md",
+		"char_ofs": 166752,
+		"byte_ofs": 168946
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/7-yl012-tool-flange.md",
+		"char_ofs": 167488,
+		"byte_ofs": 169691
+	},
+	{
+		"link": "6-appendix/6-1-block-diagrams/8-power-connector.md",
+		"char_ofs": 168229,
+		"byte_ofs": 170442
+	},
+	{
+		"link": "6-appendix/6-2-system-specification/README.md",
+		"char_ofs": 168858,
+		"byte_ofs": 171080
+	},
+	{
+		"link": "6-appendix/6-2-system-specification/1-cobot.md",
+		"char_ofs": 168887,
+		"byte_ofs": 171111
+	},
+	{
+		"link": "6-appendix/6-2-system-specification/2-controller.md",
+		"char_ofs": 169174,
+		"byte_ofs": 171406
+	},
+	{
+		"link": "6-appendix/6-2-system-specification/3-tp.md",
+		"char_ofs": 169752,
+		"byte_ofs": 171997
+	},
+	{
+		"link": "certifications.md",
+		"char_ofs": 170335,
+		"byte_ofs": 172593
+	},
+	{
+		"link": "attachment/README.md",
+		"char_ofs": 171239,
+		"byte_ofs": 173530
+	},
+	{
+		"link": "attachment/rules-criteria-and-public-notice.md",
+		"char_ofs": 171253,
+		"byte_ofs": 173546
+	},
+	{
+		"link": "warranty.md",
+		"char_ofs": 171677,
+		"byte_ofs": 173975
+	}
+]
