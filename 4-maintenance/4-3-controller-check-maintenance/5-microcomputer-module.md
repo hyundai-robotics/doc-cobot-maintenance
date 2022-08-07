@@ -1,4 +1,4 @@
-# 4.3.5 소형 컴퓨터 모듈
+﻿# 4.3.5 소형 컴퓨터 모듈
 
 소형 컴퓨터 모듈(miniH6COM, EBC-GF53)은 Hi6제어 플랫폼을 기반으로 협동로봇을 구동하고 제어하는 모듈입니다. 이 모듈에 대한 자세한 내용은 “[**Hi6 제어기 조작 설명서**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/)”를 참조하십시오.
 
